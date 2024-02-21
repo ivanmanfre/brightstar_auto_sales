@@ -1,18 +1,18 @@
 
 
-#Car Sales Performance Dashboard
+# Brightstar Performance Dashboard
 
-##Project Overview
-Created an interactive dashboard to visualize car sales data, enabling detailed analysis of sales trends, salesperson performance metrics, and car make sales distribution.
+## Project Overview
+Dashboard to visualize car sales data, enabling detailed analysis of sales trends, salesperson performance metrics, and car make sales distribution.
 
-##Features
+## Features
 • Data Analysis: Leveraged pandas for data aggregation and transformation.
-• Interactive Visualizations: Built with Dash and Plotly for dynamic, responsive charts.
+• Static Visualizations: Created with Dash and Plotly, producing detailed charts.
 • Responsive Design: Used Dash Bootstrap Components for cross-device accessibility.
-• Custom Aesthetics: Consistent color scheme for a cohesive visual experience.
 
-##Visualizations
+
+## Visualizations
 • Bar charts for top-performing salespersons by sales and commissions.
 • Pie chart for sales distribution by car make.
 • Line graph for monthly sales trends.
-• Data tables showing top car models by sales cou
+• Data tables showing top car models by sales count.
